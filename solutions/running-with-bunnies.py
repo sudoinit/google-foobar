@@ -1,4 +1,4 @@
-# foobar:~/running-with-bunnies priyanshu.nch$ cat readme.txt 
+
 # Running with Bunnies
 # ====================
 
